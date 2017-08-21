@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="morkovka:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="morkovka-1.0.0-BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="morkovka:war exploded" />
+    </root>
+  </artifact>
+</component>

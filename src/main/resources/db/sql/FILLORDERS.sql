@@ -1,0 +1,10 @@
+INSERT INTO ORDER_TABLE VALUES (1,'address-1','client-1');
+INSERT INTO ORDER_TABLE VALUES (2,'address-2','client-2');
+
+INSERT INTO ORDERLINE_TABLE VALUES (1,10,'goods-1 for order-1', 1, 99.99);
+INSERT INTO ORDERLINE_TABLE VALUES (2,10,'goods-2 for order-1', 1, 99.99);
+INSERT INTO ORDERLINE_TABLE VALUES (3,10,'goods-1 for order-2', 2, 11.11);
+INSERT INTO ORDERLINE_TABLE VALUES (4,10,'goods-2 for order-2', 2, 11.11);
+
+
+
